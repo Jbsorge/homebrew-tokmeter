@@ -1,6 +1,6 @@
 cask "tokmeter" do
   version "1.1.0"
-  sha256 "a5e0b56476062252ca4d9b8a9c4c614698567057f11b6482615dffc0ea6ec073"
+  sha256 "fc5af6830a5471179d5211b729ced56db8d9c022f9302af0eb4348f586db4279"
 
   url "https://github.com/Jbsorge/TokMeter-app/releases/download/v#{version}/TokMeter-mac-arm64.zip"
   name "TokMeter"
