@@ -1,8 +1,8 @@
 cask "tokmeter" do
-  version "1.2.0"
-  sha256 "6b1e83d49eaf4eeef37b4c97b06279d83426650e6094bf15ceee28c65e0b679a"
+  version "1.2.3"
+  sha256 "2239328ea40c1b51dbeb3d0a585d0f6caf019fdf899d8072991320fa17a49304"
 
-  url "https://github.com/Jbsorge/TokMeter-app/releases/download/v#{version}/TokMeter-mac-arm64.zip"
+  url "https://github.com/Jbsorge/TokMeter-app/releases/download/v#{version}/TokMeter.zip"
   name "TokMeter"
   desc "macOS menu bar app that tracks Claude and OpenAI API spend in real-time"
   homepage "https://github.com/Jbsorge/TokMeter-app"
