@@ -4,7 +4,7 @@ cask "tokmeter" do
 
   url "https://github.com/Jbsorge/TokMeter-app/releases/download/v#{version}/TokMeter.zip"
   name "TokMeter"
-  desc "macOS menu bar app that tracks Claude, OpenAI, and Gemini API spend in real-time"
+  desc "macOS menu bar app that tracks Claude, OpenAI, and Gemini spend and subscription in real-time"
   homepage "https://github.com/Jbsorge/TokMeter-app"
 
   depends_on arch: :arm64
