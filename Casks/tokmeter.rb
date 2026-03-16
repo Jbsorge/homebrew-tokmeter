@@ -1,6 +1,6 @@
 cask "tokmeter" do
   version "1.2.3"
-  sha256 "2239328ea40c1b51dbeb3d0a585d0f6caf019fdf899d8072991320fa17a49304"
+  sha256 "b4d180b6347c47d0a50a83a34f33b64169ac09b355c59e796e2fcc8f0f3f9f25"
 
   url "https://github.com/Jbsorge/TokMeter-app/releases/download/v#{version}/TokMeter.zip"
   name "TokMeter"
